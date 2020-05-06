@@ -1,0 +1,106 @@
+body {
+    font-size: 1.2rem;
+    font-family: 'Amatic SC', cursive ;
+    background: #D6DCE2;
+}
+
+.boxes{
+    text-align: center;
+    margin: 3rem;
+    padding: 1rem;
+    width: 30em;
+    border: solid #35456D;
+    border-radius: 2em;
+    display: block;
+}
+
+.boxes a {
+    text-decoration: none;
+    color: #F401CD;
+}
+
+.boxes a:hover {
+    font-weight: bold;
+    color: #7C00F8;
+}
+
+span {
+    color: #7C00F8;
+    font-weight: bold;
+
+}
+
+#box1 {
+    background-color: #E9ECF3;
+}
+
+#box2 {
+    background-color: #718FD8;
+}
+
+#box3 {
+    background-color: #658C72;
+}
+
+#box4 {
+    background-color: #FF8764;
+}
+
+.imageBox {
+    height: 50px;
+    width: 50px;
+    background-color: #F401CD;
+    border-radius: 2em;
+    position: relative;
+    top: 70px;
+    left: 130px;
+}
+
+h1 {
+    color: #F401CD;
+}
+
+.Original {
+    color: #7C00F8;
+}
+
+.Additional {
+    color: #81FF78;
+}
+
+#show1 {
+    color: green;
+}
+
+#show2 {
+    color: blue;
+}
+
+#show3 {
+    color: yellow;
+}
+
+#show4 {
+    color: orange;
+}
+
+#show5 {
+    color: red;
+}
+
+ul {
+    color: #7C00F8;
+}
+
+.star {
+    color: #F401CD;
+}
+
+#wars {
+    color: red;
+}
+
+.Lists {
+    border: solid 2px black;
+    border-radius: 1em;
+}
