@@ -12,6 +12,7 @@ body {
     border: solid #35456D;
     border-radius: 2em;
     display: block;
+    position: relative;
 }
 
 .boxes a {
@@ -51,8 +52,8 @@ span {
     width: 50px;
     background-color: #F401CD;
     border-radius: 2em;
-    position: relative;
-    top: 70px;
+    position: absolute;
+    top: 35px;
     left: 130px;
 }
 
